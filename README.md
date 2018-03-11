@@ -3,6 +3,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-kali,Mint,Ubuntu-blue.svg)]()
 
 
+https://www.kitploit.com/2018/02/meterpreter-paranoid-mode-meterpreter.html
 
 ## Meterpreter_Paranoid_Mode v1.4 - SSL/TLS connections
     Version release: v1.4 (Stable)
